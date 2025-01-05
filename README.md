@@ -63,8 +63,3 @@ Running this project locally requires the following pre-requisites
 - iOS
 ### UI References
 
-- Authentication Page UI from this [Figma file](https://www.patreon.com/posts/figma-design-ui-68844937) by [Watery Desert](https://github.com/watery-desert/)
-- Home Page UI from this [Figma file](https://www.figma.com/file/lIEZJxjpcT8hi9Kkn0MjmA/Food-Yum-Mobile-App-(Community)?node-id=0%3A1) by [Angga Risky](https://www.youtube.com/anggarisky)
-
-### Author
-- [Aime Ndayambaje](https://github.com/aimelive)
